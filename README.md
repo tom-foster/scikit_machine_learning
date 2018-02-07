@@ -11,7 +11,6 @@ You'll want to install 3.6 separately.
 ## On WLS
 On WLS you'll need to install package 3.6 from deadsnakes.
 
-```javascript
-var s = 'hi'
+```bash
 sudo apt-get install python3.6-tk
 ```
