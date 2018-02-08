@@ -39,10 +39,18 @@ python3.6 -m venv venv
 ```
 
 We call:
-* ```bash python3.6``` because it's the version we specifically want to use.
-* ```bash -m``` calls a module
-* ```bash venv``` is a module
-* ```bash venv``` (2) is the name we're giving to venv, it stands for virtual environment, you may wish to call it venv or virtualenv.
+* ```bash
+python3.6
+``` because it's the version we specifically want to use.
+* ```bash
+-m 
+``` calls a module
+* ```bash 
+venv
+``` is a module
+* ```bash
+venv
+``` (2) is the name we're giving to venv, it stands for virtual environment, you may wish to call it venv or virtualenv.
 
 We now want to activate our virtual environment (venv).
 
