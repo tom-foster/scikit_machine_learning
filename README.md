@@ -39,9 +39,7 @@ python3.6 -m venv venv
 ```
 
 We call:
-*     python3.6
-```
-because it's the version we specifically want to use.
+    ```bash python3.6``` because it's the version we specifically want to use.
 
 * ```bash
 -m 
