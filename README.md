@@ -88,5 +88,18 @@ Reactivate your virtual environment again.
 source venv/bin/activate
 ```
 
-## explain installing requirements.txt, installing,
+### Installing requirements.txt, installing,
+You'll want to download the requirements.txt if nothing else to install the right components.
+
+The requirements.txt contains the list of all modules you'll want to install that will be required for scikit learn.
+
+With the virtual environment active run:
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install the modules (pip) is package manager with python.
+
+
 
