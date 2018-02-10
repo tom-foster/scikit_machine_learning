@@ -101,5 +101,22 @@ pip install -r requirements.txt
 
 This will install the modules (pip) is package manager with python.
 
+### Checking your installs
 
+We want to check that the installs are in there so a couple of test files have been included. in the tests folder. I should stress these aren't unit or functional tests. Just simply testing that the installs have worked.
+
+To run the numpy_test.py with your virtual environment active.
+
+```bash
+python tests/numpy_test.py
+```
+
+You should see in the console
+
+```bash
+(venv) tfos1@scikit_machine_learning$python tests/numpy_test.py
+A numpy array :
+[[1 2 3]
+ [4 5 6]]
+```
 
