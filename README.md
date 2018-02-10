@@ -120,3 +120,20 @@ A numpy array :
  [4 5 6]]
 ```
 
+You may wish to run the other tests if you like as there are little snippets in them which provide useful.
+
+## Running Jupyter Notebook
+
+Alot of the work will now take place in jupyter notebook
+
+To run jupyter notebook with your virtual environment active.
+
+```bash
+jupyter notebook
+```
+
+This will launch a local server and give you a token copy that and you'll see your juptyer notebook open.
+
+If you want to look at explanations/sprase_matrices.ipynb you'll see the a graph. This is useful in writing documents.
+
+
