@@ -134,6 +134,8 @@ jupyter notebook
 
 This will launch a local server and give you a token copy that and you'll see your juptyer notebook open.
 
-If you want to look at explanations/sprase_matrices.ipynb you'll see the a graph. This is useful in writing documents.
+If you want to look at explanations/sprase_matrices.ipynb you'll see the graph showing the advantages of sparse matrices.
+
+Jupyter is a useful tool and will be used going forward.
 
 
