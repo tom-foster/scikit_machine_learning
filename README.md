@@ -138,4 +138,4 @@ If you want to look at explanations/sprase_matrices.ipynb you'll see the graph s
 
 Jupyter is a useful tool and will be used going forward.
 
-
+Check out the demos in the file jupyter_demos folder to see a couple of examples using matplotlib and pandas.
